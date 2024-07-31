@@ -1,2 +1,2 @@
 # Stormbait
-Website for Stormgate documentaiton
+Website for Stormgate documentation
